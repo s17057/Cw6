@@ -1,0 +1,16 @@
+08.05.2020 07:29:26: Received Request!
+08.05.2020 07:29:26: Method: GET
+08.05.2020 07:29:26: Path: /api/students
+08.05.2020 07:29:26: Query: 
+08.05.2020 07:29:26: BodyString: 
+08.05.2020 07:30:05: Received Request!
+08.05.2020 07:30:05: Method: POST
+08.05.2020 07:30:05: Path: /api/enrollments/
+08.05.2020 07:30:05: Query: 
+08.05.2020 07:30:05: BodyString: {
+"IndexNumber": "s1234", 
+"FirstName": "Andrzej", 
+"LastName": "Malewski", 
+"BirthDate": "1993-01-02",
+"Studies": "Informatyka"
+}
